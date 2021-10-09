@@ -22,9 +22,9 @@ Future<void> main() async {
       databaseURL: 'https://geetaxi-9c60a.firebaseio.com',
     )
         : const FirebaseOptions(
-      googleAppID: '1:169450788828:android:418ca150b8799c9ef9a119',
-      apiKey: 'AIzaSyDQSm22dfjceA0OiQ9XL-0tQ0d7_XZTXpQ',
-      databaseURL: 'https://geetaxi-9c60a.firebaseio.com',
+      googleAppID: '1:487545624050:android:ef79cc5a267161583bc76b',
+      apiKey: 'AIzaSyAiaT92F4wouawYh4XRMHlw4NRnmvpwwOI',
+      databaseURL: 'https://geetaxi-21-10-09-asus-default-rtdb.firebaseio.com',
     ),
   );
 
